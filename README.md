@@ -25,13 +25,13 @@ https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-f
 
 以下是目前推荐和长期维护的库
 
-- **`free_base`** <a href="https://github.com/clqsrc/free_base">**free_base**</a>: 实现 golang 手动释放内存【实现过好几个版本，真正实用的是最简单的😄】
+- **free_base** <a href="https://github.com/clqsrc/free_base">**free_base**</a>: 实现 golang 手动释放内存【实现过好几个版本，真正实用的是最简单的😄】
 - **`ui_json`** <a href="https://github.com/clqsrc/ui_json">**ui_json**</a>: 太乱了，整理一下自己用过的跨平台 ui 库实现的接口
 
 
 以下是不怎么维护，不过还算可以参考一下的库
 
- - [c_lib_lstring](https://github.com/clqsrc/c_lib_lstring)：通过内存池句柄释放的 C 语言字符串极简实现
+ - [`c_lib_lstring`](https://github.com/clqsrc/c_lib_lstring)：通过内存池句柄释放的 C 语言字符串极简实现
  - [C3Lang](https://github.com/clqsrc/C3Lang)：一个长期目标，没时间，不过社区现在似乎有个同名语言了，所以也许以后会改名吧。学不会编译原理的同学可以看下 :)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
