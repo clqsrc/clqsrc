@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 
 以下是目前推荐和长期维护的库
 
-- [`free_base`](https://github.com/clqsrc/free_base) : 实现 golang 手动释放内存
-- <b  style="text-decoration:none; color:#00ff00">free_base</b> <a href="https://github.com/clqsrc/free_base" style="text-decoration:none">free_base</a>: 实现 golang 手动释放内存
-
 - **free_base** <a href="https://github.com/clqsrc/free_base">**free_base**</a>: 实现 golang 手动释放内存
 - **ui_json** <a href="https://github.com/clqsrc/ui_json">**ui_json**</a>: 太乱了，整理一下自己用过的跨平台 ui 库实现的接口
 
