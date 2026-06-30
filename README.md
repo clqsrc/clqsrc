@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=仓库名&theme=default)](https://github.com/你的用户名/仓库名)
 
+一些语法的说明，这个是波浪号解析为了代码
+https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
 
 -->
 
