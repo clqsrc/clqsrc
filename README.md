@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 以下是目前推荐和长期维护的库
 
-- [free_base](https://github.com/clqsrc/free_base) : 实现 golang 手动释放内存
+- [`free_base`](https://github.com/clqsrc/free_base) : 实现 golang 手动释放内存
 -  <a href="https://github.com/clqsrc/free_base" style="text-decoration:none">free_base</a>：实现 golang 手动释放内存
 
 
