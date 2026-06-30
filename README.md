@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 以下是不怎么维护，不过还算可以参考一下的库
 
- c_lib_lstring
- - [c_lib_lstring](https://github.com/clqsrc/)：通过内存池句柄释放的 C 语言字符串极简实现 
+ - [c_lib_lstring](https://github.com/clqsrc/c_lib_lstring)：通过内存池句柄释放的 C 语言字符串极简实现
+ - [C3Lang](https://github.com/clqsrc/C3Lang)：一个长期目标，没时间，不过社区现在似乎有个同名语言了，所以也许以后会改名吧。学不会编译原理的同学可以看下 :) 
 
