@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 以下是目前推荐和长期维护的库
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=clqsrc&repo=free_base&theme=default)](https://github.com/clqsrc/free_base)
+[free_base](https://github.com/clqsrc/free_base) : 实现 golang 手动释放内存
 
 
 以下是不怎么维护，不过还算可以参考一下的库
