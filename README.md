@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - [`free_base`](https://github.com/clqsrc/free_base) : 实现 golang 手动释放内存
 - <b  style="text-decoration:none; color:#00ff00">free_base</b> <a href="https://github.com/clqsrc/free_base" style="text-decoration:none">free_base</a>: 实现 golang 手动释放内存
 
-- $\textcolor{#2563eb}{**蓝色文字**}$ <a href="https://github.com/clqsrc/free_base" style="text-decoration:none">free_base</a>: 实现 golang 手动释放内存
+- $\textcolor{#2563eb}{【**蓝色文字**】}$ <a href="https://github.com/clqsrc/free_base" style="text-decoration:none">free_base</a>: 实现 golang 手动释放内存
 
 
 以下是不怎么维护，不过还算可以参考一下的库
