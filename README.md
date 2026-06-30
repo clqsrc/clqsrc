@@ -24,3 +24,10 @@ Here are some ideas to get you started:
 以下是目前推荐和长期维护的库
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=clqsrc&repo=free_base&theme=default)](https://github.com/clqsrc/free_base)
+
+
+以下是不怎么维护，不过还算可以参考一下的库
+
+ c_lib_lstring
+ - [c_lib_lstring](https://github.com/clqsrc/)：通过内存池句柄释放的 C 语言字符串极简实现 
+
