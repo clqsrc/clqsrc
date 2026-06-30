@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+在个人主页 README 里插入仓库卡片代码
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=仓库名&theme=default)](https://github.com/你的用户名/仓库名)
+
+
 -->
+
+以下是目前推荐和长期维护的库
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=clqsrc&repo=free_base&theme=default)](https://github.com/clqsrc/free_base)
