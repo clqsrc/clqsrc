@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 一些语法的说明，这个是波浪号解析为了代码
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
+这是表格
+https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
 
 -->
 
