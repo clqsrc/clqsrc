@@ -35,6 +35,7 @@ https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-f
 
  - [`c_lib_lstring`](https://github.com/clqsrc/c_lib_lstring)：通过内存池句柄释放的 C 语言字符串极简实现
  - [C3Lang](https://github.com/clqsrc/C3Lang)：一个长期目标，没时间，不过社区现在似乎有个同名语言了，所以也许以后会改名吧。学不会编译原理的同学可以看下 :)
+ - [language_lost](https://github.com/clqsrc/language_lost) : 学习编译原理实际上手开发必备，收集、保存程序设计语言演化过程中的一些重要代码 :)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
 | 不过我想大家都知道，我们那里要上来不太容易 :) 所以很多内容可能不是最新的，仅仅供参考吧 |
