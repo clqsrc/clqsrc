@@ -32,7 +32,7 @@ https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-f
 - **`c3db`** <a href="https://github.com/clqsrc/c3db">**c3db**</a> 和 **`c3db_kv`** <a href="https://github.com/clqsrc/c3db_kv">**c3db_kv**</a>: c3db 和姊妹项目 c3db_kv 是高可靠性数据库和对应文件的实现，是我的主力项目之一
 
 以下是一些比较特殊主要是讨论方法，具体代码并不是很需要看中的项目
-- **`golang_class`** <a href="https://github.com/clqsrc/golang_class">**golang_class**</a>: 没有太多代码，只是探讨如何在 go 语言中实现更传统的类，或者说介绍下多年来笔者走过以及正在走 :) 的弯路
+- **`golang_class`** <a href="https://github.com/clqsrc/golang_class">**golang_class**</a>: 没有太多代码，只是探讨如何在 go 语言中实现更传统的类，或者说介绍下多年来笔者走过以及正在走 :) 的弯路 [根据不同的时期，可能也会有 rust 及 纯 c 的实现部分]
 
 以下是不怎么维护，不过还算可以参考一下的库
 
